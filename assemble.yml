@@ -1,0 +1,7 @@
+assemble:
+  version: 0
+
+block:
+  build: .
+  command: node script.js
+  workdir: /block
